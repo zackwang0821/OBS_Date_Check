@@ -75,7 +75,7 @@ namespace OBS_Date_Check
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(376, 20);
             this.label1.TabIndex = 4;
-            this.label1.Text = "If any question, please contact: zack.wong@hp.com";
+            this.label1.Text = "If any question, please contact: zackwang0821@gmail.com";
             // 
             // dataGridView1
             // 
