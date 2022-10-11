@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBS_Date_Check", "OBS_Date_Check\OBS_Date_Check.csproj", "{827DAFBF-6A0E-4733-A5A8-1AEC3ABBC731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827DAFBF-6A0E-4733-A5A8-1AEC3ABBC731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827DAFBF-6A0E-4733-A5A8-1AEC3ABBC731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827DAFBF-6A0E-4733-A5A8-1AEC3ABBC731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827DAFBF-6A0E-4733-A5A8-1AEC3ABBC731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD8427B-6B02-4971-A2F5-FFBB93F29A51}
+	EndGlobalSection
+EndGlobal
